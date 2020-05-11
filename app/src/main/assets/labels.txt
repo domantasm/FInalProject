@@ -1,0 +1,4 @@
+Barbell
+Bench Press
+Dumbbell
+Leg Press

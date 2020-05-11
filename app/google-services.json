@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664767303282",
+    "firebase_url": "https://visioncoach-qm.firebaseio.com",
+    "project_id": "visioncoach-qm",
+    "storage_bucket": "visioncoach-qm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664767303282:android:9fa8c50f62b67598f13ceb",
+        "android_client_info": {
+          "package_name": "com.project.visioncoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664767303282-mu1o8it3qjaga0h9n6oe70q0me1hg6pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdWeJZ1rL9dANc-2bKdWc389dP5KwY5EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664767303282-mu1o8it3qjaga0h9n6oe70q0me1hg6pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
